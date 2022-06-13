@@ -26,4 +26,8 @@ Supported game modes:
 Unsupported game modes:
 - Race
 ## Screenshots
+![Old Aerial View](/screenshots/old_aerial.png "Old Aerial View")
+![Old Cave View](/screenshots/old_cave.png "Old Cave View")
+![Old Landscape View](/screenshots/old_landscape.png "Old Landscape View")
+
 
