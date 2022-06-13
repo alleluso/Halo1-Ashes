@@ -1,5 +1,5 @@
 
-# Ashes - Halo 1
+# Halo 1 - Ashes
 
 This is my first completed halo map. This project was started years ago, even before the release
 of the MCC on PC with its new and improved Mod Tools. It was an attempt to see how far I 
@@ -23,6 +23,7 @@ Supported game modes:
 - Capture the Flag
 - King of the Hill
 - Oddball
+
 Unsupported game modes:
 - Race
 ## Screenshots
