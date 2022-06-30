@@ -33,8 +33,7 @@ Unsupported game modes:
 >Ashes
 
 #### Map Description
->It's hot down here... 2-8 players.
-Created by: alleluso
+>It's hot down here... 2-8 players.<br>Created by: alleluso
 
 #### Map Thumbnail
 ![Loading Screen](extras/thumbnail.png "Thumbnail")
